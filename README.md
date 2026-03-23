@@ -14,8 +14,6 @@
 
 🖥️ Experienced **IT Specialist** 
 
-🧠 Focused on growing in software development, especially with **C#** and **.NET** 
-
 💬 Love solving problems, building backend systems, and constantly improving my skill set  
 
 🌱 Always eager to learn the latest technologies and tools  
